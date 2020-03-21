@@ -1,0 +1,5 @@
+## Miusik
+
+```
+stayAtHomeAndParty()
+```
